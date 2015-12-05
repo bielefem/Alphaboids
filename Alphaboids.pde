@@ -1,4 +1,3 @@
-//must have
 Flock flock;
 // config able data
 int BoidNumber = 20;
